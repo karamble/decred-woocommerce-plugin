@@ -1,0 +1,14 @@
+{
+  "name": "karamble/decred-woocommerce-plugin",
+  "version": "1.0.0",
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/decred/decred-php-api"
+    }
+  ],
+  "require" : {
+    "decred/decred-php-api": "dev-master"
+  }
+}
